@@ -1,0 +1,5 @@
+This project contains the Neural Network that is top be trained to determine probabilioty for moves in the card game of Blackjack. 
+
+The MLP file must be uploaded to Google Collab as well as the blkjckhand csv file to train the NN.
+
+ Once uploaded"run all" muxt be selected to run the MLP.
